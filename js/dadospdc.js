@@ -145,4 +145,17 @@ function dadospdc(){
 		id: 304,
 		idseq: 11
 	};
+
+	configuracao[1] = { //utec
+		moduloA: 28597,
+		anguloA: 28598,
+		moduloB: 28599,
+		anguloB: 28600,
+		moduloC: 28601,
+		anguloC: 28602,
+		base: 220,
+		frequencia: 28594,
+		id: 401,
+		idseq: 12
+	};
 }
