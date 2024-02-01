@@ -16,7 +16,7 @@ function dadospdc(){
 		idseq: 1
 	};
 
-	configuracao[1] = { //uda
+	configuracao[2] = { //uda
 		moduloA: 3509,
 		anguloA: 3510,
 		moduloB: 3511,
@@ -29,7 +29,7 @@ function dadospdc(){
 		idseq: 2
 	};
 
-	configuracao[1] = { //udec
+	configuracao[3] = { //udec
 		moduloA: 1146,
 		anguloA: 1147,
 		moduloB: 1148,
@@ -42,7 +42,7 @@ function dadospdc(){
 		idseq: 3
 	};
 
-	configuracao[1] = { //usach
+	configuracao[4] = { //usach
 		moduloA: 2406,
 		anguloA: 2407,
 		moduloB: 2408,
@@ -55,7 +55,7 @@ function dadospdc(){
 		idseq: 4
 	};
 
-	configuracao[1] = { //ufro
+	configuracao[5] = { //ufro
 		moduloA: 2309,
 		anguloA: 2310,
 		moduloB: 2311,
@@ -68,7 +68,7 @@ function dadospdc(){
 		idseq: 5
 	};
 
-	configuracao[1] = { //uta
+	configuracao[6] = { //uta
 		moduloA: 1191,
 		anguloA: 1192,
 		moduloB: 1193,
@@ -81,7 +81,7 @@ function dadospdc(){
 		idseq: 6
 	};
 
-	configuracao[1] = { //utalca
+	configuracao[7] = { //utalca
 		moduloA: 3008,
 		anguloA: 3009,
 		moduloB: 3010,
@@ -94,7 +94,7 @@ function dadospdc(){
 		idseq: 7
 	};
 
-	configuracao[1] = { //unsj
+	configuracao[8] = { //unsj
 		moduloA: 2936,
 		anguloA: 2937,
 		moduloB: 2938,
@@ -107,7 +107,7 @@ function dadospdc(){
 		idseq: 8
 	};
 
-	configuracao[1] = { //unlp
+	configuracao[9] = { //unlp
 		moduloA: 1236,
 		anguloA: 1237,
 		moduloB: 1238,
@@ -120,7 +120,7 @@ function dadospdc(){
 		idseq: 9
 	};
 
-	configuracao[1] = { //unt
+	configuracao[10] = { //unt
 		moduloA: 23134,
 		anguloA: 23135,
 		moduloB: 23136,
@@ -133,7 +133,7 @@ function dadospdc(){
 		idseq: 10
 	};
 
-	configuracao[1] = { //unco
+	configuracao[11] = { //unco
 		moduloA: 1281,
 		anguloA: 1282,
 		moduloB: 1283,
@@ -146,7 +146,7 @@ function dadospdc(){
 		idseq: 11
 	};
 
-	configuracao[1] = { //utec
+	configuracao[12] = { //utec
 		moduloA: 28597,
 		anguloA: 28598,
 		moduloB: 28599,
